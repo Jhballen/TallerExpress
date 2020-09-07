@@ -1,0 +1,15 @@
+{
+  "name": "taller4jhonval",
+  "version": "1.0.0",
+  "description": "taller 04 express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jhon Ballen Valentina Calderon",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
